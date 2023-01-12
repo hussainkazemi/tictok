@@ -4,7 +4,7 @@
 
 
 #### todo list
-[x] mvp
-[] refactor code 
-[] add AI
-[] install in pkgd
+- [x] mvp
+- [] refactor code 
+- [] add AI
+- [] install in pkgd
