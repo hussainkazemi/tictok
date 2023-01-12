@@ -5,6 +5,7 @@
 
 #### todo list
 - [x] mvp
+- [ ] add menu
 - [] refactor code 
 - [] add AI
 - [] install in pkgd
