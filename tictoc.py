@@ -26,6 +26,8 @@ def showBoard(board):
         print("\n______________________________\n")
 
 def checkSelectIsValid(board, s):
+    if not s[0].isnumeric() or len(s) > 2:
+        return False
     x = int(s[0]) - 1
     y = int(ord(s[1])) - int(ord('a'))
     if x > 6 or y > 6 :
